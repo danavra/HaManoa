@@ -238,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574346357504" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574346480162" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/hagai" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -345,7 +345,7 @@
       <workItem from="1573299992906" duration="6222000" />
       <workItem from="1573482235800" duration="461000" />
       <workItem from="1574170577274" duration="58000" />
-      <workItem from="1574342252649" duration="3645000" />
+      <workItem from="1574342252649" duration="4321000" />
     </task>
     <task id="LOCAL-00001" summary="init alek">
       <created>1574344120138</created>
@@ -358,7 +358,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105936000" />
+    <option name="totallyTimeSpent" value="106612000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,7 +371,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1914" y="-5" width="1292" height="704" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24594156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
