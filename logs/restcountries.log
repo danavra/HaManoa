@@ -1,0 +1,836 @@
+2019-07-16 11:55:37,034 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:37,058 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Comic Sans MS are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:37,167 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:37,633 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:37,742 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:37,765 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Comic Sans MS are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:37,796 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Comic Sans MS,Italic are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:37,859 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:37,880 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Arial Black are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:38,034 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:38,078 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Comic Sans MS are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:38,099 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:38,150 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCEEE+Times are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:38,154 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCEEE+Courier New,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:38,161 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:55:38,162 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCEEE+Cambria Math are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:38,190 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCEEE+Courier New are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:38,193 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCEEE+Comic Sans MS,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:38,197 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCEEE+Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:39,813 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:39,833 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Comic Sans MS are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:39,848 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:39,890 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,015 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,020 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,027 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,211 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,214 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Comic Sans MS are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,238 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,419 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,422 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Comic Sans MS are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,430 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,435 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Comic Sans MS,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,465 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,BoldItalic are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,500 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,530 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,539 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:40,547 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:55:40,573 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,542 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,547 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Comic Sans MS are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,648 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,653 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,655 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,663 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F4 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,774 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F5 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,778 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F6 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,855 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Comic Sans MS are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,861 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:41,931 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:42,022 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:42,026 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:42,031 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:42,036 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:42,060 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:42,069 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:42,074 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:42,086 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri Light are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:42,092 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:55:42,093 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Cambria Math are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:42,155 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,360 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,363 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,369 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,374 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:55:43,375 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F4 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,376 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3003 (3003) in font CIDFont+F4
+2019-07-16 11:55:43,377 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3002 (3002) in font CIDFont+F4
+2019-07-16 11:55:43,377 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3012 (3012) in font CIDFont+F4
+2019-07-16 11:55:43,378 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3250 (3250) in font CIDFont+F4
+2019-07-16 11:55:43,394 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3268 (3268) in font CIDFont+F4
+2019-07-16 11:55:43,395 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3419 (3419) in font CIDFont+F4
+2019-07-16 11:55:43,396 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3423 (3423) in font CIDFont+F4
+2019-07-16 11:55:43,396 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3252 (3252) in font CIDFont+F4
+2019-07-16 11:55:43,397 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3251 (3251) in font CIDFont+F4
+2019-07-16 11:55:43,398 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2885 (2885) in font CIDFont+F4
+2019-07-16 11:55:43,398 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2886 (2886) in font CIDFont+F4
+2019-07-16 11:55:43,402 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+4676 (4676) in font CIDFont+F4
+2019-07-16 11:55:43,402 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+4677 (4677) in font CIDFont+F4
+2019-07-16 11:55:43,405 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3020 (3020) in font CIDFont+F4
+2019-07-16 11:55:43,413 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F5 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,416 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3010 (3010) in font CIDFont+F4
+2019-07-16 11:55:43,417 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3005 (3005) in font CIDFont+F4
+2019-07-16 11:55:43,417 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3127 (3127) in font CIDFont+F4
+2019-07-16 11:55:43,418 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3269 (3269) in font CIDFont+F4
+2019-07-16 11:55:43,418 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3256 (3256) in font CIDFont+F4
+2019-07-16 11:55:43,419 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3021 (3021) in font CIDFont+F4
+2019-07-16 11:55:43,419 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3036 (3036) in font CIDFont+F4
+2019-07-16 11:55:43,419 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3040 (3040) in font CIDFont+F4
+2019-07-16 11:55:43,420 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3032 (3032) in font CIDFont+F4
+2019-07-16 11:55:43,420 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3047 (3047) in font CIDFont+F4
+2019-07-16 11:55:43,420 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3028 (3028) in font CIDFont+F4
+2019-07-16 11:55:43,420 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3043 (3043) in font CIDFont+F4
+2019-07-16 11:55:43,420 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3280 (3280) in font CIDFont+F4
+2019-07-16 11:55:43,421 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3293 (3293) in font CIDFont+F4
+2019-07-16 11:55:43,421 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3297 (3297) in font CIDFont+F4
+2019-07-16 11:55:43,421 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3284 (3284) in font CIDFont+F4
+2019-07-16 11:55:43,421 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3278 (3278) in font CIDFont+F4
+2019-07-16 11:55:43,425 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+4593 (4593) in font CIDFont+F4
+2019-07-16 11:55:43,426 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2879 (2879) in font CIDFont+F4
+2019-07-16 11:55:43,427 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3117 (3117) in font CIDFont+F4
+2019-07-16 11:55:43,431 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3004 (3004) in font CIDFont+F4
+2019-07-16 11:55:43,460 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F6 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,620 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,623 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,629 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,714 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,718 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:43,723 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:46,638 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Narkisim are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:46,648 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:46,653 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:55:46,654 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+CambriaMath are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:46,659 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Narkisim are not implemented in PDFBox and will be ignored
+2019-07-16 11:55:46,675 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:03,784 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:03,789 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:03,790 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Cambria Math are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:04,386 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:04,393 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:04,394 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+CambriaMath are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:04,936 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:04,938 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:04,944 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:04,948 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:04,949 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F4 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:04,950 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3028 (3028) in font CIDFont+F4
+2019-07-16 11:56:04,951 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2873 (2873) in font CIDFont+F4
+2019-07-16 11:56:04,951 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2868 (2868) in font CIDFont+F4
+2019-07-16 11:56:04,951 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3012 (3012) in font CIDFont+F4
+2019-07-16 11:56:04,952 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3003 (3003) in font CIDFont+F4
+2019-07-16 11:56:04,952 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2869 (2869) in font CIDFont+F4
+2019-07-16 11:56:04,952 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3014 (3014) in font CIDFont+F4
+2019-07-16 11:56:04,952 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3029 (3029) in font CIDFont+F4
+2019-07-16 11:56:04,953 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3043 (3043) in font CIDFont+F4
+2019-07-16 11:56:04,953 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3046 (3046) in font CIDFont+F4
+2019-07-16 11:56:04,953 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+4672 (4672) in font CIDFont+F4
+2019-07-16 11:56:04,953 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2870 (2870) in font CIDFont+F4
+2019-07-16 11:56:04,954 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3040 (3040) in font CIDFont+F4
+2019-07-16 11:56:04,954 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+4673 (4673) in font CIDFont+F4
+2019-07-16 11:56:04,955 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3030 (3030) in font CIDFont+F4
+2019-07-16 11:56:04,956 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2871 (2871) in font CIDFont+F4
+2019-07-16 11:56:04,956 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3036 (3036) in font CIDFont+F4
+2019-07-16 11:56:04,957 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3015 (3015) in font CIDFont+F4
+2019-07-16 11:56:04,957 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3007 (3007) in font CIDFont+F4
+2019-07-16 11:56:04,957 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3091 (3091) in font CIDFont+F4
+2019-07-16 11:56:04,957 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3294 (3294) in font CIDFont+F4
+2019-07-16 11:56:04,957 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3119 (3119) in font CIDFont+F4
+2019-07-16 11:56:04,957 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3118 (3118) in font CIDFont+F4
+2019-07-16 11:56:04,957 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2872 (2872) in font CIDFont+F4
+2019-07-16 11:56:04,958 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2923 (2923) in font CIDFont+F4
+2019-07-16 11:56:04,958 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2919 (2919) in font CIDFont+F4
+2019-07-16 11:56:04,958 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2924 (2924) in font CIDFont+F4
+2019-07-16 11:56:04,958 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3031 (3031) in font CIDFont+F4
+2019-07-16 11:56:04,958 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3284 (3284) in font CIDFont+F4
+2019-07-16 11:56:04,958 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3121 (3121) in font CIDFont+F4
+2019-07-16 11:56:04,959 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2876 (2876) in font CIDFont+F4
+2019-07-16 11:56:04,959 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3041 (3041) in font CIDFont+F4
+2019-07-16 11:56:04,962 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2878 (2878) in font CIDFont+F4
+2019-07-16 11:56:04,966 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3050 (3050) in font CIDFont+F4
+2019-07-16 11:56:04,969 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F5 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:04,969 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3013 (3013) in font CIDFont+F4
+2019-07-16 11:56:04,969 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3002 (3002) in font CIDFont+F4
+2019-07-16 11:56:04,969 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3008 (3008) in font CIDFont+F4
+2019-07-16 11:56:04,970 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2874 (2874) in font CIDFont+F4
+2019-07-16 11:56:04,970 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3123 (3123) in font CIDFont+F4
+2019-07-16 11:56:04,970 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2877 (2877) in font CIDFont+F4
+2019-07-16 11:56:04,970 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3032 (3032) in font CIDFont+F4
+2019-07-16 11:56:04,971 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3047 (3047) in font CIDFont+F4
+2019-07-16 11:56:04,971 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3042 (3042) in font CIDFont+F4
+2019-07-16 11:56:04,973 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+4678 (4678) in font CIDFont+F4
+2019-07-16 11:56:04,973 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2897 (2897) in font CIDFont+F4
+2019-07-16 11:56:04,973 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2886 (2886) in font CIDFont+F4
+2019-07-16 11:56:04,973 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2891 (2891) in font CIDFont+F4
+2019-07-16 11:56:04,973 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2912 (2912) in font CIDFont+F4
+2019-07-16 11:56:04,973 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2926 (2926) in font CIDFont+F4
+2019-07-16 11:56:04,973 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2929 (2929) in font CIDFont+F4
+2019-07-16 11:56:04,974 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+4679 (4679) in font CIDFont+F4
+2019-07-16 11:56:04,979 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3004 (3004) in font CIDFont+F4
+2019-07-16 11:56:05,009 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,012 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,018 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,022 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:05,022 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F4 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,023 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2870 (2870) in font CIDFont+F4
+2019-07-16 11:56:05,023 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3008 (3008) in font CIDFont+F4
+2019-07-16 11:56:05,023 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3003 (3003) in font CIDFont+F4
+2019-07-16 11:56:05,023 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2871 (2871) in font CIDFont+F4
+2019-07-16 11:56:05,023 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3012 (3012) in font CIDFont+F4
+2019-07-16 11:56:05,023 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3119 (3119) in font CIDFont+F4
+2019-07-16 11:56:05,023 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3117 (3117) in font CIDFont+F4
+2019-07-16 11:56:05,024 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3121 (3121) in font CIDFont+F4
+2019-07-16 11:56:05,024 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2869 (2869) in font CIDFont+F4
+2019-07-16 11:56:05,024 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2874 (2874) in font CIDFont+F4
+2019-07-16 11:56:05,024 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3013 (3013) in font CIDFont+F4
+2019-07-16 11:56:05,025 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3019 (3019) in font CIDFont+F4
+2019-07-16 11:56:05,025 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2873 (2873) in font CIDFont+F4
+2019-07-16 11:56:05,026 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3122 (3122) in font CIDFont+F4
+2019-07-16 11:56:05,026 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2876 (2876) in font CIDFont+F4
+2019-07-16 11:56:05,031 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3014 (3014) in font CIDFont+F4
+2019-07-16 11:56:05,032 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3020 (3020) in font CIDFont+F4
+2019-07-16 11:56:05,032 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3435 (3435) in font CIDFont+F4
+2019-07-16 11:56:05,032 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3170 (3170) in font CIDFont+F4
+2019-07-16 11:56:05,033 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3173 (3173) in font CIDFont+F4
+2019-07-16 11:56:05,033 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3165 (3165) in font CIDFont+F4
+2019-07-16 11:56:05,034 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3118 (3118) in font CIDFont+F4
+2019-07-16 11:56:05,034 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3146 (3146) in font CIDFont+F4
+2019-07-16 11:56:05,034 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3126 (3126) in font CIDFont+F4
+2019-07-16 11:56:05,034 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2879 (2879) in font CIDFont+F4
+2019-07-16 11:56:05,034 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3439 (3439) in font CIDFont+F4
+2019-07-16 11:56:05,036 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F6 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,037 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3263 (3263) in font CIDFont+F4
+2019-07-16 11:56:05,038 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2878 (2878) in font CIDFont+F4
+2019-07-16 11:56:05,041 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2922 (2922) in font CIDFont+F4
+2019-07-16 11:56:05,041 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2925 (2925) in font CIDFont+F4
+2019-07-16 11:56:05,041 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2917 (2917) in font CIDFont+F4
+2019-07-16 11:56:05,042 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3015 (3015) in font CIDFont+F4
+2019-07-16 11:56:05,042 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2872 (2872) in font CIDFont+F4
+2019-07-16 11:56:05,045 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2868 (2868) in font CIDFont+F4
+2019-07-16 11:56:05,047 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3048 (3048) in font CIDFont+F4
+2019-07-16 11:56:05,047 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3033 (3033) in font CIDFont+F4
+2019-07-16 11:56:05,047 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3032 (3032) in font CIDFont+F4
+2019-07-16 11:56:05,048 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3045 (3045) in font CIDFont+F4
+2019-07-16 11:56:05,048 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3036 (3036) in font CIDFont+F4
+2019-07-16 11:56:05,048 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3053 (3053) in font CIDFont+F4
+2019-07-16 11:56:05,074 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3039 (3039) in font CIDFont+F4
+2019-07-16 11:56:05,075 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3028 (3028) in font CIDFont+F4
+2019-07-16 11:56:05,075 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3047 (3047) in font CIDFont+F4
+2019-07-16 11:56:05,076 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3041 (3041) in font CIDFont+F4
+2019-07-16 11:56:05,077 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3030 (3030) in font CIDFont+F4
+2019-07-16 11:56:05,077 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3052 (3052) in font CIDFont+F4
+2019-07-16 11:56:05,077 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3043 (3043) in font CIDFont+F4
+2019-07-16 11:56:05,077 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3291 (3291) in font CIDFont+F4
+2019-07-16 11:56:05,077 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3294 (3294) in font CIDFont+F4
+2019-07-16 11:56:05,078 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3042 (3042) in font CIDFont+F4
+2019-07-16 11:56:05,078 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3044 (3044) in font CIDFont+F4
+2019-07-16 11:56:05,079 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3046 (3046) in font CIDFont+F4
+2019-07-16 11:56:05,080 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3049 (3049) in font CIDFont+F4
+2019-07-16 11:56:05,082 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3123 (3123) in font CIDFont+F4
+2019-07-16 11:56:05,082 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3040 (3040) in font CIDFont+F4
+2019-07-16 11:56:05,083 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2929 (2929) in font CIDFont+F4
+2019-07-16 11:56:05,084 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2915 (2915) in font CIDFont+F4
+2019-07-16 11:56:05,084 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2913 (2913) in font CIDFont+F4
+2019-07-16 11:56:05,084 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3124 (3124) in font CIDFont+F4
+2019-07-16 11:56:05,084 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3029 (3029) in font CIDFont+F4
+2019-07-16 11:56:05,085 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+3125 (3125) in font CIDFont+F4
+2019-07-16 11:56:05,087 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2877 (2877) in font CIDFont+F4
+2019-07-16 11:56:05,109 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,112 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,121 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,134 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:05,135 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F4 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,135 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2869 (2869) in font CIDFont+F4
+2019-07-16 11:56:05,136 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2870 (2870) in font CIDFont+F4
+2019-07-16 11:56:05,186 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,189 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,193 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,236 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,239 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,285 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,288 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,292 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,354 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,357 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,369 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,375 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+SegoeUISymbol are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,378 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,416 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F1 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,418 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F2 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,422 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F3 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,427 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:05,427 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font CIDFont+F5 are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,428 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2869 (2869) in font CIDFont+F5
+2019-07-16 11:56:05,428 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+2871 (2871) in font CIDFont+F5
+2019-07-16 11:56:05,457 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,460 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,467 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,505 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,508 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,512 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:05,513 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+CambriaMath are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,516 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,526 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,588 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,591 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,594 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,615 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,656 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,746 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,749 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,805 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,807 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,808 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,810 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,826 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:05,827 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Cambria Math are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,833 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,836 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman,Italic are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,876 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,878 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,879 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David-Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,886 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,893 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,900 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:05,901 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+CambriaMath are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,906 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,954 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,957 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:05,986 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,087 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,089 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,102 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,103 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,105 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,148 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,150 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,156 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,162 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,164 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,217 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,218 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,219 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,226 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,237 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Courier New are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,287 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,287 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,289 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,294 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,309 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,336 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,338 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,339 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,342 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,389 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,391 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,392 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,395 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,409 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,411 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,414 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,470 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,474 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,475 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,477 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,489 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,503 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCEEE+Calibri,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,555 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,556 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,556 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,561 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,569 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,578 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman,BoldItalic are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,637 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,638 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,639 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,640 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,647 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,727 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,730 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,732 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,815 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,816 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,820 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,822 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,837 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David-Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,856 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,858 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,863 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,865 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:06,948 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for C230 (1) in font AFMIBK+AdvTA16
+2019-07-16 11:56:06,982 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for C0 (1) in font AFMIFN+AdvP4C4E74
+2019-07-16 11:56:06,983 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for C6 (1) in font AFMIGN+AdvP4C4E59
+2019-07-16 11:56:06,984 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for C138 (2) in font AFMIFN+AdvP4C4E74
+2019-07-16 11:56:06,989 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for C223 (1) in font AFMIJO+AdvT006
+2019-07-16 11:56:06,997 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for C1 (3) in font AFMIFN+AdvP4C4E74
+2019-07-16 11:56:07,069 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for C15 (4) in font AFMIFN+AdvP4C4E74
+2019-07-16 11:56:07,078 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for C3 (5) in font AFMIFN+AdvP4C4E74
+2019-07-16 11:56:07,098 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for C2 (6) in font AFMIFN+AdvP4C4E74
+2019-07-16 11:56:07,120 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for C20 (7) in font AFMIFN+AdvP4C4E74
+2019-07-16 11:56:07,215 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #03 (3) in font T23
+2019-07-16 11:56:07,216 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 6 (54) in font T24
+2019-07-16 11:56:07,217 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 5 (53) in font T24
+2019-07-16 11:56:07,217 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (48) in font T24
+2019-07-16 11:56:07,218 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (44) in font T24
+2019-07-16 11:56:07,218 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 9 (57) in font T24
+2019-07-16 11:56:07,219 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T24
+2019-07-16 11:56:07,219 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T24
+2019-07-16 11:56:07,220 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (46) in font T21
+2019-07-16 11:56:07,221 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0B (11) in font T21
+2019-07-16 11:56:07,221 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for - (45) in font T21
+2019-07-16 11:56:07,223 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (44) in font T21
+2019-07-16 11:56:07,224 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T22
+2019-07-16 11:56:07,224 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for - (45) in font T20
+2019-07-16 11:56:07,225 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (44) in font T20
+2019-07-16 11:56:07,226 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (46) in font T20
+2019-07-16 11:56:07,227 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5B (91) in font T20
+2019-07-16 11:56:07,228 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 6 (54) in font T20
+2019-07-16 11:56:07,228 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5D (93) in font T20
+2019-07-16 11:56:07,229 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 4 (52) in font T20
+2019-07-16 11:56:07,229 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 9 (57) in font T20
+2019-07-16 11:56:07,229 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 8 (56) in font T20
+2019-07-16 11:56:07,229 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #25 (37) in font T20
+2019-07-16 11:56:07,230 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #03 (3) in font T18
+2019-07-16 11:56:07,231 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (44) in font T17
+2019-07-16 11:56:07,231 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for - (45) in font T17
+2019-07-16 11:56:07,231 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (46) in font T17
+2019-07-16 11:56:07,233 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (44) in font T16
+2019-07-16 11:56:07,233 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (46) in font T16
+2019-07-16 11:56:07,234 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #2F (47) in font T16
+2019-07-16 11:56:07,234 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T15
+2019-07-16 11:56:07,235 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (48) in font T15
+2019-07-16 11:56:07,235 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (44) in font T15
+2019-07-16 11:56:07,235 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T15
+2019-07-16 11:56:07,236 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 9 (57) in font T15
+2019-07-16 11:56:07,236 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 4 (52) in font T15
+2019-07-16 11:56:07,237 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (58) in font T20
+2019-07-16 11:56:07,238 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (61) in font T20
+2019-07-16 11:56:07,238 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T12
+2019-07-16 11:56:07,239 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (59) in font T13
+2019-07-16 11:56:07,239 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T12
+2019-07-16 11:56:07,240 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #12 (18) in font T14
+2019-07-16 11:56:07,240 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0C (12) in font T20
+2019-07-16 11:56:07,241 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #29 (41) in font T14
+2019-07-16 11:56:07,241 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #1A (26) in font T14
+2019-07-16 11:56:07,242 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5C (92) in font T14
+2019-07-16 11:56:07,242 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (59) in font T14
+2019-07-16 11:56:07,242 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0C (12) in font T19
+2019-07-16 11:56:07,243 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5B (91) in font T14
+2019-07-16 11:56:07,245 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #28 (40) in font T20
+2019-07-16 11:56:07,245 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #29 (41) in font T20
+2019-07-16 11:56:07,247 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T20
+2019-07-16 11:56:07,247 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 3 (51) in font T20
+2019-07-16 11:56:07,248 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0B (11) in font T20
+2019-07-16 11:56:07,256 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T20
+2019-07-16 11:56:07,257 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 5 (53) in font T20
+2019-07-16 11:56:07,257 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (48) in font T20
+2019-07-16 11:56:07,259 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ! (33) in font T14
+2019-07-16 11:56:07,261 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for + (43) in font T20
+2019-07-16 11:56:07,263 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5C (92) in font T20
+2019-07-16 11:56:07,265 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for " (34) in font T20
+2019-07-16 11:56:07,265 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 7 (55) in font T20
+2019-07-16 11:56:07,266 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T9
+2019-07-16 11:56:07,266 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (46) in font T9
+2019-07-16 11:56:07,267 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T14
+2019-07-16 11:56:07,269 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T22
+2019-07-16 11:56:07,272 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0D (13) in font T20
+2019-07-16 11:56:07,282 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #7B (123) in font T20
+2019-07-16 11:56:07,286 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #3C (60) in font T13
+2019-07-16 11:56:07,286 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #3E (62) in font T13
+2019-07-16 11:56:07,287 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #01 (1) in font T14
+2019-07-16 11:56:07,289 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T9
+2019-07-16 11:56:07,290 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T8
+2019-07-16 11:56:07,290 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0E (14) in font T20
+2019-07-16 11:56:07,291 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #28 (40) in font T21
+2019-07-16 11:56:07,291 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #29 (41) in font T21
+2019-07-16 11:56:07,292 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0C (12) in font T21
+2019-07-16 11:56:07,292 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (58) in font T21
+2019-07-16 11:56:07,294 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T21
+2019-07-16 11:56:07,295 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T5
+2019-07-16 11:56:07,295 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (61) in font T21
+2019-07-16 11:56:07,295 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (59) in font T21
+2019-07-16 11:56:07,296 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T21
+2019-07-16 11:56:07,296 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T18
+2019-07-16 11:56:07,296 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 6 (54) in font T4
+2019-07-16 11:56:07,296 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (59) in font T4
+2019-07-16 11:56:07,297 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for + (43) in font T21
+2019-07-16 11:56:07,297 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 3 (51) in font T21
+2019-07-16 11:56:07,297 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #2F (47) in font T21
+2019-07-16 11:56:07,298 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 4 (52) in font T21
+2019-07-16 11:56:07,298 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T4
+2019-07-16 11:56:07,299 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 5 (53) in font T21
+2019-07-16 11:56:07,299 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 6 (54) in font T21
+2019-07-16 11:56:07,300 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 7 (55) in font T21
+2019-07-16 11:56:07,301 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (58) in font T7
+2019-07-16 11:56:07,301 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 8 (56) in font T21
+2019-07-16 11:56:07,301 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 9 (57) in font T21
+2019-07-16 11:56:07,301 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #15 (21) in font T4
+2019-07-16 11:56:07,302 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (48) in font T21
+2019-07-16 11:56:07,302 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for - (45) in font T2
+2019-07-16 11:56:07,303 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T5
+2019-07-16 11:56:07,303 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #3C (60) in font T7
+2019-07-16 11:56:07,304 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T14
+2019-07-16 11:56:07,304 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5B (91) in font T17
+2019-07-16 11:56:07,305 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T17
+2019-07-16 11:56:07,305 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 7 (55) in font T17
+2019-07-16 11:56:07,305 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5D (93) in font T17
+2019-07-16 11:56:07,305 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (58) in font T17
+2019-07-16 11:56:07,305 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (48) in font T18
+2019-07-16 11:56:07,305 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (61) in font T17
+2019-07-16 11:56:07,305 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5B (91) in font T23
+2019-07-16 11:56:07,306 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (59) in font T1
+2019-07-16 11:56:07,306 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T23
+2019-07-16 11:56:07,306 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5C (92) in font T23
+2019-07-16 11:56:07,306 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T23
+2019-07-16 11:56:07,306 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T17
+2019-07-16 11:56:07,315 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T4
+2019-07-16 11:56:07,316 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 3 (51) in font T12
+2019-07-16 11:56:07,317 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 4 (52) in font T12
+2019-07-16 11:56:07,321 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #13 (19) in font T14
+2019-07-16 11:56:07,324 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (58) in font T9
+2019-07-16 11:56:07,325 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (48) in font T8
+2019-07-16 11:56:07,325 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for + (43) in font T12
+2019-07-16 11:56:07,327 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for - (45) in font T19
+2019-07-16 11:56:07,346 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (58) in font T13
+2019-07-16 11:56:07,353 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5B (91) in font T21
+2019-07-16 11:56:07,354 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5D (93) in font T21
+2019-07-16 11:56:07,354 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ^ (94) in font T4
+2019-07-16 11:56:07,355 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (59) in font T7
+2019-07-16 11:56:07,356 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #3E (62) in font T7
+2019-07-16 11:56:07,368 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 3 (51) in font T5
+2019-07-16 11:56:07,378 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 3 (51) in font T22
+2019-07-16 11:56:07,380 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #2F (47) in font T20
+2019-07-16 11:56:07,382 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 3 (51) in font T9
+2019-07-16 11:56:07,392 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0F (15) in font T20
+2019-07-16 11:56:07,403 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #16 (22) in font T13
+2019-07-16 11:56:07,417 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 4 (52) in font T9
+2019-07-16 11:56:07,448 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #25 (37) in font T21
+2019-07-16 11:56:07,450 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 5 (53) in font T9
+2019-07-16 11:56:07,456 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (59) in font T20
+2019-07-16 11:56:07,466 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0B (11) in font T17
+2019-07-16 11:56:07,466 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0C (12) in font T17
+2019-07-16 11:56:07,472 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ' (39) in font T20
+2019-07-16 11:56:07,473 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 6 (54) in font T9
+2019-07-16 11:56:07,484 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 7 (55) in font T9
+2019-07-16 11:56:07,484 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for - (45) in font T9
+2019-07-16 11:56:07,505 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 4 (52) in font T22
+2019-07-16 11:56:07,511 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0F (15) in font T14
+2019-07-16 11:56:07,517 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (46) in font T19
+2019-07-16 11:56:07,521 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 9 (57) in font T19
+2019-07-16 11:56:07,521 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 3 (51) in font T19
+2019-07-16 11:56:07,521 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 5 (53) in font T19
+2019-07-16 11:56:07,522 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ' (39) in font T19
+2019-07-16 11:56:07,524 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (58) in font T19
+2019-07-16 11:56:07,526 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 4 (52) in font T19
+2019-07-16 11:56:07,552 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for circlecopyrt (1) in font OBCNJI+CMSY10
+2019-07-16 11:56:07,601 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for angbracketleft (4) in font OBCOBC+MTSY
+2019-07-16 11:56:07,601 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for angbracketright (5) in font OBCOBC+MTSY
+2019-07-16 11:56:07,629 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for prime (8) in font OBCOBC+MTSY
+2019-07-16 11:56:07,631 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for summationtext (1) in font OBDPGF+MTEX
+2019-07-16 11:56:07,776 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for negationslash (13) in font OBCOBC+MTSY
+2019-07-16 11:56:08,192 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,195 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Tahoma are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,215 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Tahoma-Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,221 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,368 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,383 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Tahoma are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,572 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,573 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,577 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Times New Roman (Hebrew) are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,579 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,585 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,698 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,701 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,720 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Times New Roman (Hebrew) are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,812 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,835 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,839 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:08,839 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+CambriaMath are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,845 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,884 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,943 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,956 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Tahoma are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,965 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,986 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Tahoma-Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,990 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:08,997 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,100 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,115 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,132 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,135 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,139 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,146 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,151 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Tahoma are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,244 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,250 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,327 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,331 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,348 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman,Italic are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,357 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,465 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,467 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,471 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,484 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,497 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,500 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,638 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,652 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,657 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,660 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,668 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,671 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Tahoma are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,697 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,712 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:09,712 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+CambriaMath are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,769 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,775 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman,Italic are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,779 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Tahoma are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,784 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,787 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:09,808 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Times New Roman,Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,015 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,028 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,041 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,055 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Tahoma are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,079 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Calibri are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,094 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+ComicSansMS are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,127 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,137 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,147 WARN  [org.apache.fontbox.ttf.CmapSubtable:336] Format 14 cmap table is not supported and will be ignored
+2019-07-16 11:56:10,148 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+CambriaMath are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,200 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+Narkisim are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,203 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,206 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font Arial-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,210 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,214 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ArialMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,215 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,217 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font ABCDEE+David-Bold are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,220 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-BoldMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,226 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,237 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPS-ItalicMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:10,251 INFO  [org.apache.pdfbox.pdmodel.font.PDCIDFontType2:121] OpenType Layout tables used in font TimesNewRomanPSMT are not implemented in PDFBox and will be ignored
+2019-07-16 11:56:11,690 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (61) in font T22
+2019-07-16 11:56:11,691 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (61) in font T23
+2019-07-16 11:56:11,692 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (58) in font T23
+2019-07-16 11:56:11,692 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (59) in font T23
+2019-07-16 11:56:11,697 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #28 (40) in font T22
+2019-07-16 11:56:11,697 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #29 (41) in font T22
+2019-07-16 11:56:11,710 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ! (33) in font T19
+2019-07-16 11:56:11,713 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T18
+2019-07-16 11:56:11,713 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for + (43) in font T22
+2019-07-16 11:56:11,714 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #01 (1) in font T18
+2019-07-16 11:56:11,715 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T19
+2019-07-16 11:56:11,718 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #16 (22) in font T23
+2019-07-16 11:56:11,721 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #28 (40) in font T20
+2019-07-16 11:56:11,723 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #29 (41) in font T20
+2019-07-16 11:56:11,723 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0C (12) in font T16
+2019-07-16 11:56:11,725 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #28 (40) in font T17
+2019-07-16 11:56:11,725 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #29 (41) in font T17
+2019-07-16 11:56:11,725 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0E (14) in font T23
+2019-07-16 11:56:11,755 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (59) in font T21
+2019-07-16 11:56:11,759 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (58) in font T21
+2019-07-16 11:56:11,759 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T14
+2019-07-16 11:56:11,776 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (46) in font T13
+2019-07-16 11:56:11,777 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T13
+2019-07-16 11:56:11,777 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (50) in font T13
+2019-07-16 11:56:11,777 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 4 (52) in font T13
+2019-07-16 11:56:11,778 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 5 (53) in font T13
+2019-07-16 11:56:11,778 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 8 (56) in font T13
+2019-07-16 11:56:11,786 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #3E (62) in font T23
+2019-07-16 11:56:11,794 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ! (33) in font T18
+2019-07-16 11:56:11,797 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #2F (47) in font T13
+2019-07-16 11:56:11,797 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 3 (51) in font T13
+2019-07-16 11:56:11,797 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 6 (54) in font T13
+2019-07-16 11:56:11,801 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (61) in font T20
+2019-07-16 11:56:11,803 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (48) in font T13
+2019-07-16 11:56:11,803 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 7 (55) in font T13
+2019-07-16 11:56:11,803 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 9 (57) in font T13
+2019-07-16 11:56:11,804 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #28 (40) in font T11
+2019-07-16 11:56:11,804 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T10
+2019-07-16 11:56:11,804 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #29 (41) in font T11
+2019-07-16 11:56:11,809 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #14 (20) in font T18
+2019-07-16 11:56:11,810 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #3C (60) in font T23
+2019-07-16 11:56:11,811 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (48) in font T19
+2019-07-16 11:56:11,811 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #15 (21) in font T18
+2019-07-16 11:56:11,819 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0F (15) in font T23
+2019-07-16 11:56:11,836 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0B (11) in font T23
+2019-07-16 11:56:11,837 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for + (43) in font T20
+2019-07-16 11:56:11,840 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0C (12) in font T23
+2019-07-16 11:56:11,848 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ` (96) in font T21
+2019-07-16 11:56:11,848 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ` (96) in font T23
+2019-07-16 11:56:11,851 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #11 (17) in font T9
+2019-07-16 11:56:11,852 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #11 (17) in font T23
+2019-07-16 11:56:11,852 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #12 (18) in font T9
+2019-07-16 11:56:11,852 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #12 (18) in font T23
+2019-07-16 11:56:11,852 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #12 (18) in font T16
+2019-07-16 11:56:11,852 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #15 (21) in font T23
+2019-07-16 11:56:11,853 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #13 (19) in font T16
+2019-07-16 11:56:11,853 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ' (39) in font T23
+2019-07-16 11:56:11,854 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #14 (20) in font T16
+2019-07-16 11:56:11,854 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #23 (35) in font T16
+2019-07-16 11:56:11,854 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #10 (16) in font T16
+2019-07-16 11:56:11,854 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #11 (17) in font T16
+2019-07-16 11:56:11,854 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #15 (21) in font T16
+2019-07-16 11:56:11,865 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #19 (25) in font T23
+2019-07-16 11:56:11,867 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T16
+2019-07-16 11:56:11,868 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #01 (1) in font T16
+2019-07-16 11:56:11,869 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #02 (2) in font T18
+2019-07-16 11:56:11,871 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #1C (28) in font T18
+2019-07-16 11:56:11,872 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (61) in font T21
+2019-07-16 11:56:11,876 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0B (11) in font T9
+2019-07-16 11:56:11,885 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5B (91) in font T22
+2019-07-16 11:56:11,886 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #5D (93) in font T22
+2019-07-16 11:56:11,887 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #02 (2) in font T16
+2019-07-16 11:56:11,887 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #03 (3) in font T16
+2019-07-16 11:56:11,892 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (48) in font T8
+2019-07-16 11:56:11,902 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #28 (40) in font T7
+2019-07-16 11:56:11,903 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #29 (41) in font T7
+2019-07-16 11:56:11,922 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0D (13) in font T23
+2019-07-16 11:56:11,928 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #06 (6) in font T18
+2019-07-16 11:56:11,928 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #06 (6) in font T19
+2019-07-16 11:56:11,929 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0E (14) in font T9
+2019-07-16 11:56:11,941 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ! (33) in font T23
+2019-07-16 11:56:11,944 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 6 (54) in font T18
+2019-07-16 11:56:11,963 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #1B (27) in font T23
+2019-07-16 11:56:11,964 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #1B (27) in font T9
+2019-07-16 11:56:11,981 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (48) in font T6
+2019-07-16 11:56:11,981 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (49) in font T6
+2019-07-16 11:56:11,981 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ! (33) in font T5
+2019-07-16 11:56:11,981 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (0) in font T3
+2019-07-16 11:56:11,981 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (58) in font T12
+2019-07-16 11:56:11,982 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #28 (40) in font T4
+2019-07-16 11:56:11,982 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (61) in font T12
+2019-07-16 11:56:11,982 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #29 (41) in font T4
+2019-07-16 11:56:11,982 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #10 (16) in font T2
+2019-07-16 11:56:11,983 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #11 (17) in font T2
+2019-07-16 11:56:11,983 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #14 (20) in font T2
+2019-07-16 11:56:11,983 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #15 (21) in font T2
+2019-07-16 11:56:11,983 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for + (43) in font T4
+2019-07-16 11:56:11,983 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #19 (25) in font T5
+2019-07-16 11:56:11,984 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0B (11) in font T5
+2019-07-16 11:56:11,984 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0B (11) in font T1
+2019-07-16 11:56:11,984 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #02 (2) in font T2
+2019-07-16 11:56:11,984 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #03 (3) in font T2
+2019-07-16 11:56:11,985 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0C (12) in font T9
+2019-07-16 11:56:12,000 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #0F (15) in font T9
+2019-07-16 11:56:12,005 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #01 (1) in font T23
+2019-07-16 11:56:12,010 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #19 (25) in font T9
+2019-07-16 11:56:12,010 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (46) in font T16
+2019-07-16 11:56:12,020 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #1A (26) in font T23
+2019-07-16 11:56:12,023 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #1A (26) in font T5
+2019-07-16 11:56:12,024 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (59) in font T12
+2019-07-16 11:56:12,024 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (61) in font T4
+2019-07-16 11:56:12,024 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #15 (21) in font T3
+2019-07-16 11:56:12,027 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #1C (28) in font T23
+2019-07-16 11:56:12,035 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #17 (23) in font T23
+2019-07-16 11:56:12,037 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #15 (21) in font T9
+2019-07-16 11:56:12,038 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for #1A (26) in font T9
+2019-07-16 11:56:12,142 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for circlecopyrt (2) in font HYLQON+CkdtbdDlhcssCMSY7
+2019-07-16 11:56:12,194 WARN  [org.apache.pdfbox.pdmodel.font.PDType0Font:497] No Unicode mapping for CID+415 (415) in font GqcvpyNgwmjtCalibri-Bold
+2019-07-16 11:56:12,500 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for summationdisplay (1) in font BLEX
+2019-07-16 11:56:12,519 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for Pi1 (1) in font MTMI
+2019-07-16 11:56:12,597 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for [ (1) in font T2
+2019-07-16 11:56:12,598 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (2) in font T2
+2019-07-16 11:56:12,598 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 5 (3) in font T2
+2019-07-16 11:56:12,598 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ] (4) in font T2
+2019-07-16 11:56:12,599 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (5) in font T2
+2019-07-16 11:56:12,599 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (6) in font T2
+2019-07-16 11:56:12,600 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (7) in font T2
+2019-07-16 11:56:12,600 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 3 (8) in font T2
+2019-07-16 11:56:12,600 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 4 (9) in font T2
+2019-07-16 11:56:12,600 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (1) in font T3
+2019-07-16 11:56:12,600 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (10) in font T2
+2019-07-16 11:56:12,601 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 7 (1) in font T5
+2019-07-16 11:56:12,601 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 4 (2) in font T5
+2019-07-16 11:56:12,602 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (3) in font T5
+2019-07-16 11:56:12,602 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (4) in font T5
+2019-07-16 11:56:12,602 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (5) in font T5
+2019-07-16 11:56:12,602 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 9 (6) in font T5
+2019-07-16 11:56:12,603 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (1) in font T7
+2019-07-16 11:56:12,603 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ( (11) in font T2
+2019-07-16 11:56:12,604 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ) (12) in font T2
+2019-07-16 11:56:12,604 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (2) in font T3
+2019-07-16 11:56:12,604 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (1) in font T9
+2019-07-16 11:56:12,606 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 6 (3) in font T3
+2019-07-16 11:56:12,606 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (13) in font T2
+2019-07-16 11:56:12,607 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (14) in font T2
+2019-07-16 11:56:12,607 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (1) in font T4
+2019-07-16 11:56:12,608 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (15) in font T2
+2019-07-16 11:56:12,608 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ? (16) in font T2
+2019-07-16 11:56:12,608 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 5 (7) in font T5
+2019-07-16 11:56:12,609 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (1) in font T12
+2019-07-16 11:56:12,611 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (4) in font T3
+2019-07-16 11:56:12,611 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 6 (8) in font T5
+2019-07-16 11:56:12,612 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for : (2) in font T4
+2019-07-16 11:56:12,612 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 8 (9) in font T5
+2019-07-16 11:56:12,613 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (5) in font T3
+2019-07-16 11:56:12,613 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 9 (17) in font T2
+2019-07-16 11:56:12,613 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for % (18) in font T2
+2019-07-16 11:56:12,613 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (6) in font T3
+2019-07-16 11:56:12,614 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 6 (19) in font T2
+2019-07-16 11:56:12,614 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 8 (20) in font T2
+2019-07-16 11:56:12,614 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 7 (21) in font T2
+2019-07-16 11:56:12,615 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (10) in font T5
+2019-07-16 11:56:12,615 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ( (2) in font T7
+2019-07-16 11:56:12,615 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ) (3) in font T7
+2019-07-16 11:56:12,615 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (22) in font T2
+2019-07-16 11:56:12,616 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ! (23) in font T2
+2019-07-16 11:56:12,617 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (2) in font T9
+2019-07-16 11:56:12,619 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (24) in font T2
+2019-07-16 11:56:12,619 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for = (1) in font T15
+2019-07-16 11:56:12,619 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (2) in font T15
+2019-07-16 11:56:12,619 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (3) in font T15
+2019-07-16 11:56:12,619 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (3) in font T4
+2019-07-16 11:56:12,621 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (11) in font T5
+2019-07-16 11:56:12,621 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for - (4) in font T7
+2019-07-16 11:56:12,623 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (4) in font T4
+2019-07-16 11:56:12,623 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ( (4) in font T15
+2019-07-16 11:56:12,623 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ) (5) in font T15
+2019-07-16 11:56:12,624 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (7) in font T3
+2019-07-16 11:56:12,625 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 3 (12) in font T5
+2019-07-16 11:56:12,626 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (5) in font T4
+2019-07-16 11:56:12,626 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (1) in font T17
+2019-07-16 11:56:12,626 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (2) in font T17
+2019-07-16 11:56:12,626 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (1) in font T18
+2019-07-16 11:56:12,627 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (1) in font T16
+2019-07-16 11:56:12,627 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (2) in font T16
+2019-07-16 11:56:12,627 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ;; (6) in font T4
+2019-07-16 11:56:12,629 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (5) in font T7
+2019-07-16 11:56:12,631 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (6) in font T15
+2019-07-16 11:56:12,632 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (25) in font T2
+2019-07-16 11:56:12,632 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for . (1) in font T8
+2019-07-16 11:56:12,632 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ! (8) in font T3
+2019-07-16 11:56:12,632 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (9) in font T3
+2019-07-16 11:56:12,632 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (1) in font T10
+2019-07-16 11:56:12,634 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (6) in font T7
+2019-07-16 11:56:12,634 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ^ (26) in font T2
+2019-07-16 11:56:12,635 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (1) in font T19
+2019-07-16 11:56:12,635 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ^ (1) in font T20
+2019-07-16 11:56:12,635 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (1) in font T21
+2019-07-16 11:56:12,635 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (1) in font T22
+2019-07-16 11:56:12,636 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ( (13) in font T5
+2019-07-16 11:56:12,636 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 1 (2) in font T20
+2019-07-16 11:56:12,636 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ) (14) in font T5
+2019-07-16 11:56:12,636 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ; (2) in font T21
+2019-07-16 11:56:12,636 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for + (15) in font T5
+2019-07-16 11:56:12,637 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (2) in font T22
+2019-07-16 11:56:12,637 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 2 (3) in font T20
+2019-07-16 11:56:12,637 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for + (27) in font T2
+2019-07-16 11:56:12,639 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for   (10) in font T3
+2019-07-16 11:56:12,639 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ;; (2) in font T10
+2019-07-16 11:56:12,640 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (7) in font T15
+2019-07-16 11:56:12,640 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (3) in font T10
+2019-07-16 11:56:12,641 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for ' (28) in font T2
+2019-07-16 11:56:12,641 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for  (3) in font T9
+2019-07-16 11:56:12,643 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for 0 (3) in font T17
+2019-07-16 11:56:12,643 WARN  [org.apache.pdfbox.pdmodel.font.PDSimpleFont:325] No Unicode mapping for , (2) in font T12

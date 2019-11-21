@@ -1,0 +1,26 @@
+.root {
+    -fx-background-image: url("notGoogle.JPG");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: contain;
+
+
+;
+}
+
+
+
+
+
+
+.button{
+    /*-fx-background-color: #c3fffd;*/
+    /*-fx-border-color: grey;*/
+
+}
+.text-field{
+    -fx-border-width: 2;
+    -fx-border-color: #cccccc;
+
+
+
+}
