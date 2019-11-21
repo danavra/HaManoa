@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a869b4b2-9b2e-46d8-9d37-a45a55aa681e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Moodle-Downloader2/Moodle-Downloader2/.idea/Moodle-Downloader2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moodle-Downloader2/Moodle-Downloader2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moodle-Downloader2/Moodle-Downloader2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moodle-Downloader2/Moodle-Downloader2/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a869b4b2-9b2e-46d8-9d37-a45a55aa681e" name="Default Changelist" comment="init alek" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +146,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Moodle-Downloader2/Moodle-Downloader2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -243,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574345280325" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574346357504" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/hagai" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -350,7 +345,7 @@
       <workItem from="1573299992906" duration="6222000" />
       <workItem from="1573482235800" duration="461000" />
       <workItem from="1574170577274" duration="58000" />
-      <workItem from="1574342252649" duration="3009000" />
+      <workItem from="1574342252649" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="init alek">
       <created>1574344120138</created>
@@ -363,7 +358,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105300000" />
+    <option name="totallyTimeSpent" value="105936000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -763,16 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/View/View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="97" column="32" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/SearchEngine/View/View.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor" />
@@ -792,6 +777,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
           <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="97" column="32" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
